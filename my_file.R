@@ -1,4 +1,4 @@
-my_function <- function(arg1, arg2) {
+my_function <- function(arg1, arg2=10) {
 	return((arg1 + arg2) ^ 2)
 }
 
