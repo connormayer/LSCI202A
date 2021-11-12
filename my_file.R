@@ -5,3 +5,7 @@ my_function <- function(arg1, arg2=10, arg3=20) {
 my_other_function <- function(arg) {
 	print(arg)
 }
+
+new_function <- function() {
+	print("Wow!")
+}
