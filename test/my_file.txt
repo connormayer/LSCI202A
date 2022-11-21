@@ -1,4 +1,8 @@
 blah blah blah
 adding a new line here
+it's Wednesday.
+it's Monday
+it's Monday 
+>>>>>>> 72c8839f2d7d618ea9285ec3b0ba6c40d9d7426a
 Add a few more things
 Add just a few more lines
